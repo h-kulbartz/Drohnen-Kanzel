@@ -1,2 +1,3 @@
 # Drohnen-Kanzel
-Steuerung von Crazyflies per Python Programm
+Steuerung von Crazyflies per Python Programmen nach Partitur
+
